@@ -1,4 +1,4 @@
-<?php namespace App\Repositories;
+<?php namespace Repositories;
 
 use Models\User;
 use Magician\Repository;
